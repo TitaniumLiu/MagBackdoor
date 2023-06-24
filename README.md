@@ -1,5 +1,5 @@
 # MagBackdoor
-MagBackdoor: Beware of Your Loudspeaker as A Backdoor For Magnetic Injection Attacks
+MagBackdoor: Beware of Your Loudspeaker as A Backdoor For Magnetic Injection Attacks in IEEE Symposium on Security and Privacy 2023
 
 
 ### Citing
